@@ -1,6 +1,7 @@
 import java.util.Iterator;
 
 public interface AddressBook {
+	//@author Tyler Richards
 
    /** 
        Load the dictionary from a source.
